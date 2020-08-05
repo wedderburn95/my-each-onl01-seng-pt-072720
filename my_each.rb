@@ -5,5 +5,3 @@ def my_each(collection)
 end
 collection
 end
-  # code here
-end
